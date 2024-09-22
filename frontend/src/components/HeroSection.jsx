@@ -29,7 +29,7 @@ const HeroSection = () => {
           <p>
             Discover your dream job today on{" "}
             <div>
-          <h3 className="text-2xl font-bold">
+          <h3 className="font-bold">
             Job{""}<span className="text-[#F83002]">Portal!</span>
           </h3>
         </div>{" "}
