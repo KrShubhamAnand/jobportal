@@ -30,7 +30,7 @@ const HeroSection = () => {
             Discover your dream job today on{" "}
             <div>
               <h3 className="font-bold">Job</h3>
-              <h3 className="text-[#F83002]"> Portal!</h3>{" "}
+             <span><h3 className="text-[#F83002]"> Portal!</h3></span>{" "}
             </div>{" "}
             We're dedicated to connecting talented individuals with exciting
             opportunities. Whether you're a seasoned professional or just
