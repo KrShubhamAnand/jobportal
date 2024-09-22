@@ -26,8 +26,8 @@ const HeroSection = () => {
           <span className="text-[#6A38C2]">Dream Jobs</span>
         </h1>
         <div>
-        <p className="text-center">
-          Discover your dream job today on Job Portal! We're dedicated to
+        <p className="flex justify-center items-center">
+          Discover your dream job today on <div className="text-[#F83002]">Job Portal!</div> We're dedicated to
           connecting talented individuals with exciting opportunities. Whether
           you're a seasoned professional or just starting out, our platform
           offers a vast array of job listings across various industries and
