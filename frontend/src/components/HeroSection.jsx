@@ -27,11 +27,10 @@ const HeroSection = () => {
         </h1>
         <div className="flex justify-center items-center">
         <p>
-          Discover your dream job today on <div className="text-[#F83002]">Job Portal!</div> We're dedicated to
+          Discover your dream job today on <div className="font-bold">Job</div><div className="text-[#F83002]"> Portal!</div> We're dedicated to
           connecting talented individuals with exciting opportunities. Whether
           you're a seasoned professional or just starting out, our platform
-          offers a vast array of job listings across various industries and
-          locations.
+          offers a vast array of job listings.
         </p>
         </div>
         <div className="flex w-[40%] shadow-lg border border-gray-200 pl-3 rounded-full items-center gap-4 mx-auto">
