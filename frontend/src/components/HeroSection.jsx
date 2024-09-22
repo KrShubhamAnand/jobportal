@@ -25,13 +25,15 @@ const HeroSection = () => {
           Search, Apply & <br /> Get Your{" "}
           <span className="text-[#6A38C2]">Dream Jobs</span>
         </h1>
-        <p>
+        <div>
+        <p className="text-center">
           Discover your dream job today on Job Portal! We're dedicated to
           connecting talented individuals with exciting opportunities. Whether
           you're a seasoned professional or just starting out, our platform
           offers a vast array of job listings across various industries and
           locations.
         </p>
+        </div>
         <div className="flex w-[40%] shadow-lg border border-gray-200 pl-3 rounded-full items-center gap-4 mx-auto">
           <input
             type="text"
