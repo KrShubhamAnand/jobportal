@@ -26,12 +26,16 @@ const HeroSection = () => {
           <span className="text-[#6A38C2]">Dream Jobs</span>
         </h1>
         <div className="flex justify-center items-center">
-        <p>
-          Discover your dream job today on <div className="font-bold">Job</div><div className="text-[#F83002]"> Portal!</div> We're dedicated to
-          connecting talented individuals with exciting opportunities. Whether
-          you're a seasoned professional or just starting out, our platform
-          offers a vast array of job listings.
-        </p>
+          <p>
+            Discover your dream job today on{" "}
+            <div>
+              <h3 className="font-bold">Job</h3>
+              <h3 className="text-[#F83002]"> Portal!</h3>{" "}
+            </div>{" "}
+            We're dedicated to connecting talented individuals with exciting
+            opportunities. Whether you're a seasoned professional or just
+            starting out, our platform offers a vast array of job listings.
+          </p>
         </div>
         <div className="flex w-[40%] shadow-lg border border-gray-200 pl-3 rounded-full items-center gap-4 mx-auto">
           <input
